@@ -6,5 +6,9 @@ package testGit;
 public class TestGit2 {
     public static void main(String[] args) {
         System.out.println("rrrrrrrrrrrrr");
+        System.out.println("ff");
+        System.out.println("ff");
+        System.out.println("ff");
+        System.out.println("ff");
     }
 }
